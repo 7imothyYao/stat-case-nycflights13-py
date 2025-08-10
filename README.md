@@ -5,7 +5,7 @@
 
 ### 1. 克隆到本地
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/7imothyYao/stat-case-nycflights13-py.git
 cd stat-case-nycflights13-py
 ```
 
