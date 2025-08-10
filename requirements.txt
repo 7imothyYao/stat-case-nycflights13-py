@@ -1,0 +1,8 @@
+# 航班延误分析项目核心依赖包
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+statsmodels>=0.14.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+nycflights13>=0.0.3
